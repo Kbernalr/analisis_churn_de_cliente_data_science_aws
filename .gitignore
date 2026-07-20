@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Datos sensibles y equivalencia de identificadores
+database/secure/
+
+# Variables de entorno y credenciales
+.env
+

@@ -1,0 +1,29 @@
+customer_id_anonymous,probabilidad_churn,prediccion_churn,churn_real,resultado,nivel_riesgo,fecha_prediccion,umbral
+C00056,0.0162,0,0,Correcto,Bajo,2026-07-19,0.5
+C00104,0.0,0,0,Correcto,Bajo,2026-07-19,0.5
+C00002,0.0217,0,0,Correcto,Bajo,2026-07-19,0.5
+C00101,0.9544,1,1,Correcto,Muy alto,2026-07-19,0.5
+C00072,0.0,0,0,Correcto,Bajo,2026-07-19,0.5
+C00100,0.1631,0,0,Correcto,Bajo,2026-07-19,0.5
+C00044,0.092,0,0,Correcto,Bajo,2026-07-19,0.5
+C00105,0.0791,0,0,Correcto,Bajo,2026-07-19,0.5
+C00095,0.0455,0,0,Correcto,Bajo,2026-07-19,0.5
+C00084,0.0217,0,0,Correcto,Bajo,2026-07-19,0.5
+C00001,0.0706,0,0,Correcto,Bajo,2026-07-19,0.5
+C00033,0.0,0,0,Correcto,Bajo,2026-07-19,0.5
+C00097,0.0812,0,0,Correcto,Bajo,2026-07-19,0.5
+C00022,0.0812,0,0,Correcto,Bajo,2026-07-19,0.5
+C00035,0.0269,0,0,Correcto,Bajo,2026-07-19,0.5
+C00027,0.9405,1,1,Correcto,Muy alto,2026-07-19,0.5
+C00080,0.0033,0,0,Correcto,Bajo,2026-07-19,0.5
+C00077,0.0146,0,0,Correcto,Bajo,2026-07-19,0.5
+C00103,0.904,1,1,Correcto,Muy alto,2026-07-19,0.5
+C00071,0.0,0,0,Correcto,Bajo,2026-07-19,0.5
+C00039,0.7504,1,1,Correcto,Alto,2026-07-19,0.5
+C00020,0.9674,1,1,Correcto,Muy alto,2026-07-19,0.5
+C00003,0.9894,1,1,Correcto,Muy alto,2026-07-19,0.5
+C00049,0.6271,1,1,Correcto,Alto,2026-07-19,0.5
+C00079,0.2074,0,0,Correcto,Bajo,2026-07-19,0.5
+C00032,0.0,0,0,Correcto,Bajo,2026-07-19,0.5
+C00047,0.0033,0,0,Correcto,Bajo,2026-07-19,0.5
+C00017,0.1165,0,0,Correcto,Bajo,2026-07-19,0.5
